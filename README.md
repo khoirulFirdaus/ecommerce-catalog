@@ -24,4 +24,6 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
+
 ### My first time real world project, not fixed yet
+i will fix it later
